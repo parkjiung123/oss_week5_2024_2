@@ -1,5 +1,2 @@
 2019312373
 easy git
-add
-commit
-merge
