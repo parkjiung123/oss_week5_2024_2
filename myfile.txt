@@ -2,3 +2,4 @@
 easy git
 add
 commit
+merge
